@@ -1,0 +1,6 @@
+C:\Users\USER\source\repos\ButterflyAccountingMS\ButterflyAccountingMS.Models\bin\Debug\netstandard2.0\ButterflyAccountingMS.Models.deps.json
+C:\Users\USER\source\repos\ButterflyAccountingMS\ButterflyAccountingMS.Models\bin\Debug\netstandard2.0\ButterflyAccountingMS.Models.dll
+C:\Users\USER\source\repos\ButterflyAccountingMS\ButterflyAccountingMS.Models\obj\Debug\netstandard2.0\ButterflyAccountingMS.Models.csprojAssemblyReference.cache
+C:\Users\USER\source\repos\ButterflyAccountingMS\ButterflyAccountingMS.Models\obj\Debug\netstandard2.0\ButterflyAccountingMS.Models.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\ButterflyAccountingMS\ButterflyAccountingMS.Models\obj\Debug\netstandard2.0\ButterflyAccountingMS.Models.AssemblyInfoInputs.cache
+C:\Users\USER\source\repos\ButterflyAccountingMS\ButterflyAccountingMS.Models\obj\Debug\netstandard2.0\ButterflyAccountingMS.Models.AssemblyInfo.cs
